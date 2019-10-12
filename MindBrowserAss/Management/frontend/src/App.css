@@ -1,0 +1,42 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 8%;
+}
+
+.signup-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+}
+
+.app-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   height: 64px;
+  background: lightslategray;
+}
+
+.app-footer {
+  position: fixed;
+  bottom: 0;
+  height: 24px;
+  width: 100%;
+  background: lightslategray;
+}
+
+.container .content {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  margin-top: 5%;
+}
+
+.addButton{
+  position: absolute;
+    top: 100%;
+    right: 0%;
+  
+}
+
