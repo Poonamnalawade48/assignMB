@@ -7,7 +7,7 @@ Steps to run the Project,
 >> 1) First open command prompt.  
 >> 2) `cd (path of the folder where your project is placed.)`  
 >> 3) go MindBrowserAss to the folder,  
->> `cd assignMB\MindBrowserAss`  
+ `cd assignMB\MindBrowserAss`  
 >> 4)`pipenv shell`  
 >> 5)`pip install -r requirements.txt`  
     (requirements.txt file present at location assignMB\MindBrowserAss  
