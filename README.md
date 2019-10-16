@@ -4,12 +4,12 @@ In this project the django is integrated with react so for run this project you 
 
 Steps to run the Project,  
  a) To activate virtual enviourment  
-    1) First open command prompt.  
-    2) `cd (path of the folder where your project is placed.)`  
-    3) go MindBrowserAss to the folder,  
-           >> `cd assignMB\MindBrowserAss`  
-    4)`pipenv shell`  
-    5)`pip install -r requirements.txt`  
+    >> 1) First open command prompt.  
+    >> 2) `cd (path of the folder where your project is placed.)`  
+    >> 3) go MindBrowserAss to the folder,  
+            >> `cd assignMB\MindBrowserAss`  
+    >> 4)`pipenv shell`  
+    >> 5)`pip install -r requirements.txt`  
     (requirements.txt file present at location assignMB\MindBrowserAss  
 You can refer https://stackoverflow.com/questions/9207430/how-to-copy-clone-a-virtual-environment-from-server-to-local-machine  
 
