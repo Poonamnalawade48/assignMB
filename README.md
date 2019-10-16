@@ -3,7 +3,7 @@
 In this project the django is integrated with react so for run this project you should have react running and also python. But we can run the project on this python server http://localhost:8000/   
 
 Steps to run the Project,  
- a) To activate virtual enviourment  
+> a) To activate virtual enviourment  
     >> 1) First open command prompt.  
     >> 2) `cd (path of the folder where your project is placed.)`  
     >> 3) go MindBrowserAss to the folder,  
